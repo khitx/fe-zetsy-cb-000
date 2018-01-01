@@ -19,5 +19,6 @@ body {
 /* Write all remaining styles here */
 
 h1 {
+  color: rgb(147, 175, 166);
   font-family: 'Libre Baskerville', serif;
 }
