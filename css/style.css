@@ -1,6 +1,5 @@
 /*////////////// Fonts //////////////*/
 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700" rel="stylesheet">
-/* font-family: 'Libre Baskerville', serif; */
 
 /*////////// Global Styles //////////*/
 
@@ -18,3 +17,7 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+}
