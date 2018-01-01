@@ -26,6 +26,20 @@ body {
   box-sizing: border-box;
 }*/
 
+
+/*////////// Section Styles //////////*/
+
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
+
+header a:hover {
+	color: rgb(111,127,122);
+}
+
+
+/*
 #main img {
   border-width: 1em;
   border-color: rgb(147, 175, 166);
@@ -57,3 +71,5 @@ h1:hover {
   color: rgb(111,127,122);
   text-decoration: none;
 }
+
+*/
