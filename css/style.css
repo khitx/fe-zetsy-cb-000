@@ -28,7 +28,7 @@ body {
 
 header {
   color: rgb(152,173,166);
-  text-decoration: underline;;
+  text-decoration: none;
 }
 
 h1 {
