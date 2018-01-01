@@ -26,9 +26,17 @@ body {
   box-sizing: border-box;
 }*/
 
-img {
+#main img {
   border-width: 1em;
   border-color: rgb(147, 175, 166);
+}
+
+#press {
+  
+}
+
+footer {
+
 }
 
 header {
