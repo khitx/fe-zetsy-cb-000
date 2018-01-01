@@ -27,6 +27,7 @@ body {
 }*/
 
 header {
+  top: 0;
   color: rgb(152,173,166);
   text-decoration: none;
 }
