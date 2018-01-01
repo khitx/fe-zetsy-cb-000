@@ -28,7 +28,6 @@ body {
 
 header {
   top: 0;
-  color: rgb(152,173,166);
   text-decoration: none;
 }
 
@@ -36,4 +35,8 @@ h1 {
   color: rgb(147, 175, 166);
   font-size: 5em;
   font-family: 'Baskerville', serif;
+}
+
+h1:hover {
+  color: rgb(152,173,166);
 }
