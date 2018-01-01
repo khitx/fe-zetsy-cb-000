@@ -32,7 +32,7 @@ body {
 }
 
 #press {
-  
+
 }
 
 footer {
@@ -48,8 +48,10 @@ h1 {
   color: rgb(147, 175, 166);
   font-size: 5em;
   font-family: 'Baskerville', serif;
+  text-decoration: none;
 }
 
 h1:hover {
   color: rgb(111,127,122);
+  text-decoration: none;
 }
